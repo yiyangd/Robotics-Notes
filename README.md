@@ -6,6 +6,14 @@ Welcome to the Robotics Notes repository! This repository is dedicated to compil
 - [Notes](#notes)
 - [References](#references)
 
+## Notes
+
+| Title                                       | Contents | References | Date |
+|------|---------------------------------------------|------------------------------------|----------------------------------------------------------------|
+| Robotics Note 01 - The Mechanics and Control of Mechanical Manipulators (Robot Arm) | | Section 1.2 of *Introduction to Robotics: Mechanics and Control (2018)* |2024.05 |
+| Robotics Note 02 -  Spatial Descriptions of Frames in 3D | | Section 2.1 - 2.2 of *Introduction to Robotics: Mechanics and Control (2018)* |2024.05.20 |
+| Robotics Note 03 -  Mapping and Homogeneous  Transformation Matrix | | Section 2.3 of *Introduction to Robotics: Mechanics and Control (2018)* | 2024.05.21 |
+| Robotics Note 04 -  Kinematics  | |  |  |
 
 ## References
 
